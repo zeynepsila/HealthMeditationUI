@@ -25,41 +25,41 @@ A calming and visually appealing mobile UI design built with Flutter for a healt
 
 ### 🔐 Login & Register
 - Login Screen  
-  ![Login](screenshots/login.png)
+  ![Login](assets/screenshots/login.png)
 - Register Screen  
-  ![Register](screenshots/register.png)
+  ![Register](assets/screenshots/register.png)
 
 ### 🏠 Home & Start
 - Onboarding Start  
-  ![Start](screenshots/baslangic.png)
+  ![Start](assets/screenshots/baslangic.png)
 - Home Screen  
-  ![Home](screenshots/home.png)
+  ![Home](assets/screenshots/home.png)
 
 ### 🧘 Meditation & Exercises
 - Meditation  
-  ![Meditation](screenshots/meditasyon.png)
+  ![Meditation](assets/screenshots/meditasyon.png)
 - Exercises  
-  ![Exercise](screenshots/egzersiz.png)
+  ![Exercise](assets/screenshots/egzersiz.png)
 - Yoga  
-  ![Yoga](screenshots/yoga.png)
+  ![Yoga](assets/screenshots/yoga.png)
 
 ### 🎯 Goals & Statistics
 - Goals  
-  ![Goals](screenshots/hedef.png)
+  ![Goals](assets/screenshots/hedef.png)
 - Statistics  
-  ![Statistics](screenshots/istatistik.png)
+  ![Statistics](assets/screenshots/istatistik.png)
 
 ### 😴 Profile & Mood
 - Profile  
-  ![Profile](screenshots/profile.png)
+  ![Profile](assets/screenshots/profile.png)
 - Theme / Mood Tracker  
-  ![Theme](screenshots/tema.png)
+  ![Theme](assets/screenshots/tema.png)
 - Sleep Screen  
-  ![Sleep](screenshots/uyku.png)
+  ![Sleep](assets/screenshots/uyku.png)
 
 ### 🏆 Completion Animation
 - Success Animation  
-  ![Success](screenshots/basari.png)
+  ![Success](assets/screenshots/basari.png)
 
 ## 🚀 Getting Started
 
